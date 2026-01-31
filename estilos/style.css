@@ -39,7 +39,7 @@ section#login {
 }
 
 section#login  > div#imagem {
-    background-color: #5f2c82 url() no-repeat;
+    background-color: #5f2c82 url(../imagens/pexels-diogo-digital-art-52024063-35072268.jpg) no-repeat;
     background-size: cover;
     height: 200px;
 
