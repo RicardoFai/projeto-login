@@ -42,10 +42,12 @@ section#login {
 
 section#login  > div#imagem {
     display: block;
-    background-color: #5f2c82 url(../imagens/pexels-diogo-digital-art-52024063-35072268.jpg) no-repeat;
+    background: url(../imagens/pexels-diogo-digital-art-52024063-35072268.jpg) no-repeat;
     background-size: cover;
     background-position: left bottom;
     height: 200px;
+    border-top-left-radius: 20px ;
+    border-bottom-right-radius: 20px;
 
 
 }
